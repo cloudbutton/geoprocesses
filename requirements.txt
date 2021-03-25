@@ -21,7 +21,7 @@ PyGithub==1.43.7
 PyJWT==1.7.1
 pyparsing==2.4.0
 python-gitlab==1.8.0
-PyYAML==5.1
+PyYAML==5.4
 rasterio==1.0.14
 requests==2.22.0
 sentinelsat==0.13
