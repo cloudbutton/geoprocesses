@@ -29,5 +29,5 @@ six==1.12.0
 smmap2==2.0.5
 snuggs==1.4.6
 tqdm==4.32.1
-urllib3==1.25.3
+urllib3==1.25.8
 wrapt==1.11.1
